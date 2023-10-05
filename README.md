@@ -39,9 +39,9 @@ To summarize: My 20-year long professional tenure is marked by a robust blend of
 <h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 :pushpin:</h2>
 
 <p align=center>
-  <img src="https://profile-counter.glitch.me/bairis/count.svg">
+  <img src="https://profile-counter.glitch.me/devsolux/count.svg">
 </p>
 
 <p align=center>
-  <img src="https://metrics.lecoq.io/bairis?template=classic">
+  <img src="https://metrics.lecoq.io/devsolux?template=classic">
 </p>
