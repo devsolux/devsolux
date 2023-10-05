@@ -41,7 +41,3 @@ To summarize: My 20-year long professional tenure is marked by a robust blend of
 <p align=center>
   <img src="https://profile-counter.glitch.me/devsolux/count.svg">
 </p>
-
-<p align=center>
-  <img src="https://metrics.lecoq.io/devsolux?template=classic">
-</p>
