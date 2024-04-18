@@ -1,34 +1,34 @@
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
-<p align=center>
+<p align=left>
 I am a seasoned developer with two decades of experience in the tech industry. My professional journey has been an expansive one, covering a wide spectrum of domains such as Android and iOS development, hardware and software engineering, backend and frontend operations, and web development.
 </p>
 
-<p align=center>
+<p align=left>
 My understanding of multiple programming languages including C/C++, Golang, Python, Ruby, Rust, Java, PHP is deep-rooted. I've had the privilege to work with Machine Learning frameworks like TensorFlow, Torch and PyTorch. Furthermore, my exploration into OpenAI's offerings has strengthened my grasp on complex topics such as Deep Learning, LLModel creation and Datasets.
 </p>
 
-<p align=center>
+<p align=left>
 My proficiency extends to JavaScript-based technologies like ReactJS, NextJS, ViteJS, VueJS among others. Not to mention CSS tools like Tailwind or Bootstrap that have enabled me to craft visually appealing UI designs.
 </p>
 
-<p align=center>
+<p align=left>
 When it comes to applications' development environments, I've utilized platforms ranging from Tauri to Flutter and from React Native to Ionic. As for API management needs – RESTful architecture or GraphQL – I'm fully prepared.
 </p>
 
-<p align=center>
+<p align=left>
 I've worked extensively with relational databases such as PostgreSQL and MySQL while also dabbling in Realtime/Vector Databases like MongoDB or Firebase. My experience encompasses handling web servers like Nginx or Apache.
 </p>
 
-<p align=center>
+<p align=left>
 Being well-versed in containerization technologies like Docker and Kubernetes has been pivotal in my deployment strategies. I use package managers such as Git/Github proficiently along with NPM or YARN for JavaScript packages management.
 </p>
 
-<p align=center>
+<p align=left>
 From FEaaS platforms including Vercel or Heroku to PHP frameworks like Symphony or Laravel - my portfolio is diverse. Lastly, working across different operating systems - MacOS or Linux variants - has instilled flexibility in my approach.
 </p>
 
-<p align=center>
+<p align=left>
 To summarize: My 20-year long professional tenure is marked by a robust blend of technological knowledge spanning across various domains and tools in the tech industry.
 </p>
 
