@@ -1,4 +1,4 @@
-<h2 align="left">About me</h2>
+<h2 align="center">:pushpin: About me :pushpin:</h2>
 
 <p align=left>
 I am a seasoned developer with two decades of experience in the tech industry. My professional journey has been an expansive one, covering a wide spectrum of domains such as Android and iOS development, hardware and software engineering, backend and frontend operations, and web development.
