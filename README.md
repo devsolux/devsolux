@@ -42,7 +42,7 @@ To summarize: My 20-year long professional tenure is marked by a robust blend of
   <img src="https://profile-counter.glitch.me/devsolux/count.svg">
 </p>
 
-## 🧰 Languages and Tools:
+<h2 align="center">:pushpin: Languages :pushpin:</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
