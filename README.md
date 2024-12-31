@@ -1,35 +1,35 @@
-<h2 align="center">:pushpin: About me :pushpin:</h2>
+<h2 align="center">:pushpin: About Me :pushpin:</h2>
 
-<p align=left>
-I am a seasoned developer with two decades of experience in the tech industry. My professional journey has been an expansive one, covering a wide spectrum of domains such as Android and iOS development, hardware and software engineering, backend and frontend operations, and web development.
+<p align="left">
+🌟 I'm a seasoned developer with 20 years in the tech industry, journeying through Android and iOS development, hardware and software engineering, backend and frontend operations, and web development.
 </p>
 
-<p align=left>
-My understanding of multiple programming languages including C/C++, Golang, Python, Ruby, Rust, Java, PHP is deep-rooted. I've had the privilege to work with Machine Learning frameworks like TensorFlow, Torch and PyTorch. Furthermore, my exploration into OpenAI's offerings has strengthened my grasp on complex topics such as Deep Learning, LLModel creation and Datasets.
+<p align="left">
+💻 My expertise spans multiple programming languages including C/C++, Golang, Python, Ruby, Rust, Java, and PHP. I've delved into Machine Learning with frameworks like TensorFlow, Torch, and PyTorch. Exploring OpenAI's offerings has deepened my understanding of Deep Learning, LLModel creation, and Datasets.
 </p>
 
-<p align=left>
-My proficiency extends to JavaScript-based technologies like ReactJS, NextJS, ViteJS, VueJS among others. Not to mention CSS tools like Tailwind or Bootstrap that have enabled me to craft visually appealing UI designs.
+<p align="left">
+🚀 I'm proficient in JavaScript technologies such as ReactJS, NextJS, ViteJS, and VueJS. CSS tools like Tailwind and Bootstrap have empowered me to create stunning UI designs.
 </p>
 
-<p align=left>
-When it comes to applications' development environments, I've utilized platforms ranging from Tauri to Flutter and from React Native to Ionic. As for API management needs – RESTful architecture or GraphQL – I'm fully prepared.
+<p align="left">
+📱 I develop applications using platforms like Tauri, Flutter, React Native, and Ionic. For API management—whether RESTful architecture or GraphQL—I'm well-equipped.
 </p>
 
-<p align=left>
-I've worked extensively with relational databases such as PostgreSQL and MySQL while also dabbling in Realtime/Vector Databases like MongoDB or Firebase. My experience encompasses handling web servers like Nginx or Apache.
+<p align="left">
+🗄️ My database experience includes PostgreSQL and MySQL, with forays into Realtime/Vector Databases like MongoDB and Firebase. I manage web servers like Nginx and Apache.
 </p>
 
-<p align=left>
-Being well-versed in containerization technologies like Docker and Kubernetes has been pivotal in my deployment strategies. I use package managers such as Git/Github proficiently along with NPM or YARN for JavaScript packages management.
+<p align="left">
+🐳 Containerization technologies like Docker and Kubernetes are integral to my deployment strategies. I'm adept with Git/GitHub and use NPM or YARN for JavaScript package management.
 </p>
 
-<p align=left>
-From FEaaS platforms including Vercel or Heroku to PHP frameworks like Symphony or Laravel - my portfolio is diverse. Lastly, working across different operating systems - MacOS or Linux variants - has instilled flexibility in my approach.
+<p align="left">
+☁️ From FEaaS platforms like Vercel and Heroku to PHP frameworks such as Symfony and Laravel—my portfolio is diverse. Working across MacOS and Linux variants has instilled flexibility in my approach.
 </p>
 
-<p align=left>
-To summarize: My 20-year long professional tenure is marked by a robust blend of technological knowledge spanning across various domains and tools in the tech industry.
+<p align="left">
+🔍 In summary: My 20-year professional journey is marked by a robust blend of technological knowledge across various domains and tools in the tech industry.
 </p>
 
 <p align=center>
@@ -44,16 +44,17 @@ To summarize: My 20-year long professional tenure is marked by a robust blend of
 
 <h2 align="center">:pushpin: Languages :pushpin:</h2>
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
+  <img src="https://img.shields.io/badge/Java-snow?logo=coffeescript&logoColor=FC4C02" alt="" />
+  <img src="https://img.shields.io/badge/C%2B%2B-snow?logo=c%2B%2B&logoColor=00599C" alt="" />
+  <img src="https://img.shields.io/badge/C-snow?logo=c&logoColor=A8B9CC" alt="" />
+  <img src="https://img.shields.io/badge/C%23-snow?logo=csharp&logoColor=512BD4" alt="" />
+  <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&logoColor=E9CE30" alt="" />
+  <img src="https://img.shields.io/badge/Go-snow?logo=go&logoColor=00ADD8" alt="" />
+  <img src="https://img.shields.io/badge/Swift-snow?logo=swift&logoColor=F05138" alt="" />
+  <img src="https://img.shields.io/badge/Rust-snow?logo=rust&logoColor=000000" alt="" />
+  <img src="https://img.shields.io/badge/Ruby-snow?logo=ruby&logoColor=CC342D" alt="" />
+  <img src="https://img.shields.io/badge/Kotlin-snow?logo=kotlin&logoColor=7F52FF" alt="" />
+  <img src="https://img.shields.io/badge/TypeScript-snow?logo=typescript&logoColor=3178C6" alt="" />
+  <img src="https://img.shields.io/badge/Dart-snow?logo=dart&logoColor=0175C2" alt="" />
 </p>
