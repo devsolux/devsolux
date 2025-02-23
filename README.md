@@ -1,39 +1,39 @@
-<h2 align="center">:pushpin: About Me :pushpin:</h2>
+<h2 align="center">About Me</h2>
 
 <p align="left">
-🌟 I'm a seasoned developer with 20 years in the tech industry, journeying through Android and iOS development, hardware and software engineering, backend and frontend operations, and web development.
+I am an experienced developer with 24 years in the technology sector, specializing in Android and iOS development, hardware and software engineering, as well as backend and frontend operations.
 </p>
 
 <p align="left">
-💻 My expertise spans multiple programming languages including C/C++, Golang, Python, Ruby, Rust, Java, and PHP. I've delved into Machine Learning with frameworks like TensorFlow, Torch, and PyTorch. Exploring OpenAI's offerings has deepened my understanding of Deep Learning, LLModel creation, and Datasets.
+My expertise encompasses a wide range of programming languages, including but not limited to Ada, Agda, Alloy, ANTLR, AppleScript, Assembly, Augeas, Awk, Batchfile, Bluespec, C, C#, Clojure, CMake, CoffeeScript, Common Lisp, C++, CSS, CUDA, Dart, Dockerfile, Elixir, Elm, Emacs Lisp, Erlang, F#, Fortran, GLSL, Go, Groovy, Haskell, HTML, Idris, Isabelle, Java, Java Server Pages, JavaScript, JSON, Julia, Jupyter Notebook, Kotlin, Lean, Literate Agda, Literate CoffeeScript, Literate Haskell, Lua, Makefile, Maple, Markdown, Mathematica, MATLAB, OCaml, Pascal, Perl, PHP, PowerShell, Prolog, Protocol Buffer, Python, R, Racket, reStructuredText, RMarkdown, Ruby, Rust, SAS, Scala, Scheme, Shell scripting, Smalltalk, Solidity, SPARQL, SQL, Stan, Standard ML, Stata, SystemVerilog, Tcl, Tcsh, TeX, Thrift, TypeScript, Verilog, VHDL, Visual Basic, XSLT, Yacc, YAML, and Zig.
 </p>
 
 <p align="left">
-🚀 I'm proficient in JavaScript technologies such as ReactJS, NextJS, ViteJS, and VueJS. CSS tools like Tailwind and Bootstrap have empowered me to create stunning UI designs.
+I have experience in Machine Learning using frameworks such as TensorFlow, Torch, and PyTorch. My exploration of OpenAI's offerings has enhanced my understanding of Deep Learning and model creation.
 </p>
 
 <p align="left">
-📱 I develop applications using platforms like Tauri, Flutter, React Native, and Ionic. For API management—whether RESTful architecture or GraphQL—I'm well-equipped.
+I am proficient in JavaScript technologies including ReactJS, NextJS, ViteJS, and VueJS. Additionally, I utilize CSS tools like Tailwind and Bootstrap for UI design.
 </p>
 
 <p align="left">
-🗄️ My database experience includes PostgreSQL and MySQL, with forays into Realtime/Vector Databases like MongoDB and Firebase. I manage web servers like Nginx and Apache.
+I develop applications using platforms such as Tauri, Flutter, React Native, and Ionic. I have comprehensive knowledge of API management using both RESTful architectures and GraphQL.
 </p>
 
 <p align="left">
-🐳 Containerization technologies like Docker and Kubernetes are integral to my deployment strategies. I'm adept with Git/GitHub and use NPM or YARN for JavaScript package management.
+My database experience includes PostgreSQL and MySQL along with exposure to real-time/vector databases like MongoDB and Firebase. I also manage web servers such as Nginx and Apache.
 </p>
 
 <p align="left">
-☁️ From FEaaS platforms like Vercel and Heroku to PHP frameworks such as Symfony and Laravel—my portfolio is diverse. Working across MacOS and Linux variants has instilled flexibility in my approach.
+I leverage containerization technologies like Docker and Kubernetes in my deployment strategies. Proficient with Git/GitHub and use NPM or YARN for JavaScript package management.
 </p>
 
 <p align="left">
-🔍 In summary: My 20-year professional journey is marked by a robust blend of technological knowledge across various domains and tools in the tech industry.
+My portfolio includes work with FEaaS platforms like Vercel and Heroku as well as PHP frameworks such as Symfony and Laravel. I have experience across MacOS and various Linux distributions.
 </p>
 
-<p align=center>
-  ⚡ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚝𝚑 𝟙𝟶𝟶+ 𝙲𝚘𝚘𝚕 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ! ⚡
+<p align="left">
+In summary, my professional journey is characterized by a comprehensive blend of technical knowledge across diverse domains and tools in the tech industry.
 </p>
 
 <h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 :pushpin:</h2>
@@ -42,7 +42,7 @@
   <img src="https://profile-counter.glitch.me/devsolux/count.svg">
 </p>
 
-<h2 align="center">:pushpin: Languages :pushpin:</h2>
+<h2 align="center">:pushpin: Supported Programming Languages :pushpin:</h2>
 <p align="center">
 <img title="Ada" src="https://img.shields.io/badge/Ada-0072B7?style=flat-square" />
 <img title="Agda" src="https://img.shields.io/badge/Agda-1C4E80?style=flat-square" />
