@@ -1,4 +1,4 @@
-<h2 align="center">About Me</h2>
+<h2 align="center">:pushpin: About Me :pushpin:</h2>
 
 <p align="left">
 I am an experienced developer with 24 years in the technology sector, specializing in Android and iOS development, hardware and software engineering, as well as backend and frontend operations.
