@@ -36,7 +36,7 @@ My portfolio includes work with FEaaS platforms like Vercel and Heroku as well a
 In summary, my professional journey is characterized by a comprehensive blend of technical knowledge across diverse domains and tools in the tech industry.
 </p>
 
-<h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 :pushpin:</h2>
+<h2 align="center">:pushpin: Profile Views :pushpin:</h2>
 
 <p align=center>
   <img src="https://profile-counter.glitch.me/devsolux/count.svg">
