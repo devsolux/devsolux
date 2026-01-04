@@ -1,136 +1,142 @@
-<h2 align="center">:pushpin: About Me :pushpin:</h2>
+<!--
+  GitHub Profile README.md
+  Replace placeholders like YOUR_GITHUB, YOUR_EMAIL, YOUR_WEBSITE, etc.
+-->
 
-<p align="left">
-I am an experienced developer with 24 years in the technology sector, specializing in Android and iOS development, hardware and software engineering, as well as backend and frontend operations.
-</p>
-
-<p align="left">
-My expertise encompasses a wide range of programming languages, including but not limited to Ada, Agda, Alloy, ANTLR, AppleScript, Assembly, Augeas, Awk, Batchfile, Bluespec, C, C#, Clojure, CMake, CoffeeScript, Common Lisp, C++, CSS, CUDA, Dart, Dockerfile, Elixir, Elm, Emacs Lisp, Erlang, F#, Fortran, GLSL, Go, Groovy, Haskell, HTML, Idris, Isabelle, Java, Java Server Pages, JavaScript, JSON, Julia, Jupyter Notebook, Kotlin, Lean, Literate Agda, Literate CoffeeScript, Literate Haskell, Lua, Makefile, Maple, Markdown, Mathematica, MATLAB, OCaml, Pascal, Perl, PHP, PowerShell, Prolog, Protocol Buffer, Python, R, Racket, reStructuredText, RMarkdown, Ruby, Rust, SAS, Scala, Scheme, Shell scripting, Smalltalk, Solidity, SPARQL, SQL, Stan, Standard ML, Stata, SystemVerilog, Tcl, Tcsh, TeX, Thrift, TypeScript, Verilog, VHDL, Visual Basic, XSLT, Yacc, YAML, and Zig.
-</p>
-
-<p align="left">
-I have experience in Machine Learning using frameworks such as TensorFlow, Torch, and PyTorch. My exploration of OpenAI's offerings has enhanced my understanding of Deep Learning and model creation.
-</p>
-
-<p align="left">
-I am proficient in JavaScript technologies including ReactJS, NextJS, ViteJS, and VueJS. Additionally, I utilize CSS tools like Tailwind and Bootstrap for UI design.
-</p>
-
-<p align="left">
-I develop applications using platforms such as Tauri, Flutter, React Native, and Ionic. I have comprehensive knowledge of API management using both RESTful architectures and GraphQL.
-</p>
-
-<p align="left">
-My database experience includes PostgreSQL and MySQL along with exposure to real-time/vector databases like MongoDB and Firebase. I also manage web servers such as Nginx and Apache.
-</p>
-
-<p align="left">
-I leverage containerization technologies like Docker and Kubernetes in my deployment strategies. Proficient with Git/GitHub and use NPM or YARN for JavaScript package management.
-</p>
-
-<p align="left">
-My portfolio includes work with FEaaS platforms like Vercel and Heroku as well as PHP frameworks such as Symfony and Laravel. I have experience across MacOS and various Linux distributions.
-</p>
-
-<p align="left">
-In summary, my professional journey is characterized by a comprehensive blend of technical knowledge across diverse domains and tools in the tech industry.
-</p>
-
-<h2 align="center">:pushpin: Profile Views :pushpin:</h2>
-
-<p align=center>
-  <img src="https://profile-counter.glitch.me/devsolux/count.svg">
-</p>
-
-<h2 align="center">:pushpin: Supported Programming Languages :pushpin:</h2>
+<h1 align="center">Baris Aydin</h1>
 <p align="center">
-<img title="Ada" src="https://img.shields.io/badge/Ada-0072B7?style=flat-square" />
-<img title="Agda" src="https://img.shields.io/badge/Agda-1C4E80?style=flat-square" />
-<img title="Alloy" src="https://img.shields.io/badge/Alloy-7D3C98?style=flat-square" />
-<img title="ANTLR" src="https://img.shields.io/badge/ANTLR-FF5733?style=flat-square" />
-<img title="AppleScript" src="https://img.shields.io/badge/AppleScript-007AFF?style=flat-square" />
-<img title="Assembly" src="https://img.shields.io/badge/Assembly-00BFFF?style=flat-square" />
-<img title="Augeas" src="https://img.shields.io/badge/Augeas-FFDD44?style=flat-square" />
-<img title="Awk" src="https://img.shields.io/badge/Awk-00BFFF?style=flat-square" />
-<img title="Batchfile" src="https://img.shields.io/badge/Batchfile-2E8B57?style=flat-square" />
-<img title="Bluespec" src="https://img.shields.io/badge/Bluespec-FF7F50?style=flat-square" />
-<img title="C" src="https://img.shields.io/badge/C-A8B400?style=flat-square" />
-<img title="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square" />
-<img title="Clojure" src="https://img.shields.io/badge/Clojure-589634?style=flat-square" />
-<img title="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square" />
-<img title="CoffeeScript" src="https://img.shields.io/badge/CoffeeScript-24478f?style=flat-square" />
-<img title="Common Lisp" src="https://img.shields.io/badge/Common%20Lisp-3FB68D?style=flat-square" />
-<img title="C++" src="https://img.shields.io/badge/C%2B%2B-F34B7E?style=flat-square" />
-<img title="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
-<img title="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=flat-square" />
-<img title="Dart" src="https://img.shields.io/badge/Dart-00BFFF?style=flat-square" />
-<img title="Dockerfile" src="https://img.shields.io/badge/Dockerfile-2496ED?style=flat-square" />
-<img title="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square" />
-<img title="Elm" src="https://img.shields.io/badge/Elm-60B5CC?style=flat-square" />
-<img title="Emacs Lisp" src="https://img.shields.io/badge/Emacs%20Lisp-7F5AB6?style=flat-square" />
-<img title="Erlang" src="https://img.shields.io/badge/Erlang-A8070A?style=flat-square" />
-<img title="F#" src="https://img.shields.io/badge/F%23-5B8CBA?style=flat-square" />
-<img title="Fortran" src="https://img.shields.io/badge/Fortran-005C9A?style=flat-square" />
-<img title="GLSL" src="https://img.shields.io/badge/GLSL-EF5D00?style=flat-square" />
-<img title="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square" />
-<img title="Groovy" src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square" />
-<img title="Haskell" src="https://img.shields.io/badge/Haskell-5D4E85?style=flat-square" />
-<img title="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />
-<img title="Idris" src="https://img.shields.io/badge/Idris-5E2B6D?style=flat-square" />
-<img title="Isabelle" src="https://img.shields.io/badge/Isabelle-3A8EBA?style=flat-square" />
-<img title="Java" src="https://img.shields.io/badge/Java-E34F26?style=flat-square" />
-<img title="Java Server Pages" src="https://img.shields.io/badge/Java%20Server%20Pages-FE7D37?style=flat-square" />
-<img title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
-<img title="JSON" src="https://img.shields.io/badge/JSON-000000?style=flat-square" />
-<img title="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=flat-square" />
-<img title="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square" />
-<img title="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square" />
-<img title="Lean" src="https://img.shields.io/badge/Lean-3F3F3F?style=flat-square" />
-<img title="Literate Agda" src="https://img.shields.io/badge/Literate%20Agda-1C4E80?style=flat-square" />
-<img title="Literate CoffeeScript" src="https://img.shields.io/badge/Literate%20CoffeeScript-24478f?style=flat-square" />
-<img title="Literate Haskell" src="https://img.shields.io/badge/Literate%20Haskell-5D4E85?style=flat-square" />
-<img title="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square" />
-<img title="Makefile" src="https://img.shields.io/badge/Makefile-BF1F1F?style=flat-square" />
-<img title="Maple" src="https://img.shields.io/badge/Maple-D4C300?style=flat-square" />
-<img title="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square" />
-<img title="Mathematica" src="https://img.shields.io/badge/Mathematica-DD8D00?style=flat-square" />
-<img title="MATLAB" src="https://img.shields.io/badge/MATLAB-E74C3C?style=flat-square" />
-<img title="OCaml" src="https://img.shields.io/badge/OCaml-3BE133?style=flat-square" />
-<img title="Pascal" src="https://img.shields.io/badge/Pascal-E86A00?style=flat-square" />
-<img title="Perl" src="https://img.shields.io/badge/Perl-0298C3?style=flat-square" />
-<img title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square" />
-<img title="PowerShell" src="https://img.shields.io/badge/PowerShell-012456?style=flat-square" />
-<img title="Prolog" src="https://img.shields.io/badge/Prolog-BE4C00?style=flat-square" />
-<img title="Protocol Buffer" src="https://img.shields.io/badge/Protocol%20Buffer-D50032?style=flat-square"/>
-<img title="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-<img title="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square"/>
-<img title="Racket" src="https://img.shields.io/badge/Racket-3A5E0A?style=flat-square"/>
-<img title="reStructuredText" src="https://img.shields.io/badge/reStructuredText-DA5B2D?style=flat-square"/>
-<img title="RMarkdown" src="https://img.shields.io/badge/RMarkdown-5A2A27?style=flat-square"/>
-<img title="Ruby" src="https://img.shields.io/badge/Ruby-C72C40?style=flat-square"/>
-<img title="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square"/>
-<img title="SAS" src="https://img.shields.io/badge/SAS-D8B300?style=flat-square"/>
-<img title="Scala" src="https://img.shields.io/badge/Scala-EF5B24?style=flat-square"/>
-<img title="Scheme" src="https://img.shields.io/badge/Scheme-6B7C99?style=flat-square"/>
-<img title="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square"/>
-<img title="Smalltalk" src="https://img.shields.io/badge/Smalltalk-BA0D00?style=flat-square"/>
-<img title="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=flat-square"/>
-<img title="SPARQL" src="https://img.shields.io/badge/SPARQL-D50032?style=flat-square"/>
-<img title="SQL" src="https://img.shields.io/badge/SQL-003B57?style=flat-square"/>
-<img title="Stan" src="https://img.shields.io/badge/Stan-D50032?style=flat-square"/>
-<img title="Standard ML" src="https://img.shields.io/badge/Standard%20ML-A57C30?style=flat-square"/>
-<img title="Stata" src="https://img.shields.io/badge/Stata-D2C200?style=flat-square"/>
-<img title="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-AA0B00?style=flat-square"/>
-<img title="Tcl" src="https://img.shields.io/badge/Tcl-3D9970?style=flat-square"/>
-<img title="Tcsh" src="https://img.shields.io/badge/Tcsh-C0C0C0?style=flat-square"/>
-<img title="TeX" src="https://img.shields.io/badge/TeX-3D9970?style=flat-square"/>
-<img title="Thrift" src="https://img.shields.io/badge/Thrift-FF7F50?style=flat-square"/>
-<img title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square"/>
-<img title="Verilog" src="https://img.shields.io/badge/Verilog-BE4C00?style=flat-square"/>
-<img title='VHDL'  src='https://img.shields.io/badge/VHDL-AA0B00?style=flat-square'/>
-<img title='Visual Basic'  src='https://img.shields.io/badge/Visual%20Basic-008080?style=flat-square'/>
-<img title='XSLT'  src='https://img.shields.io/badge/XSLT-D50032?style=flat-square'/>
-<img title='Yacc'  src='https://img.shields.io/badge/Yacc-F39C12?style=flat-square'/>
-<img title='YAML'  src='https://img.shields.io/badge/YAML-FFCC00?style=flat-square'/>
-<img title='Zig'  src='https://img.shields.io/badge/Zig-F7A36D?style=flat-square'/>
+  Senior Software Engineer · Full-Stack Developer · Mobile (iOS/Android) · DevOps · AI/ML
 </p>
+
+<p align="center">
+  <a href="https://github.com/devsolux"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-YOUR_GITHUB-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="mailto:info@devsolux.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://devsolux.com"><img alt="Website" src="https://img.shields.io/badge/Website-DevSolux-111827?style=flat-square&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+## About
+
+I build robust, scalable systems—from architecture to delivery to reliable operation.  
+**DevSolux UG (Germany)** focuses on engineering-driven product development: clean architecture, stable integrations, DevOps-ready deployments, and maintainable codebases.
+
+- **24 years** in the technology sector
+- Full-stack (backend/frontend) + **mobile** (iOS/Android)
+- APIs, integrations, automation, and operational platforms
+- DevOps, containers, CI/CD, and pragmatic observability
+- AI/ML with modern frameworks and LLM platforms
+
+---
+
+## What I’m focused on
+
+- **Software Architecture & System Design** (scalable, maintainable, operable)
+- **Web & Mobile Products** (fast iterations, clean UI, solid engineering)
+- **DevOps & Cloud** (containers, pipelines, deployments, stability)
+- **API Integration** (REST/GraphQL, clean contracts, reliable data flows)
+- **AI/ML Enablement** (from prototyping to production integration)
+
+---
+
+## Tech Stack (Shields)
+
+### Languages
+<p>
+  <img title="C" src="https://img.shields.io/badge/C-A8B400?style=flat-square" />
+  <img title="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square" />
+  <img title="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+  <img title="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square" />
+  <img title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
+  <img title="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square" />
+  <img title="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square" />
+  <img title="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square" />
+  <img title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square" />
+  <img title="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
+  <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
+  <img title="SQL" src="https://img.shields.io/badge/SQL-003B57?style=flat-square" />
+</p>
+
+### Frontend
+<p>
+  <img title="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
+  <img title="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square" />
+  <img title="Vue" src="https://img.shields.io/badge/Vue-42B883?style=flat-square" />
+  <img title="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" />
+  <img title="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square" />
+  <img title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square" />
+  <img title="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square" />
+</p>
+
+### Mobile & Desktop
+<p>
+  <img title="iOS" src="https://img.shields.io/badge/iOS-000000?style=flat-square" />
+  <img title="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square" />
+  <img title="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square" />
+  <img title="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square" />
+  <img title="Tauri" src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square" />
+  <img title="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square" />
+</p>
+
+### Backend & APIs
+<p>
+  <img title="SlimPHP" src="https://img.shields.io/badge/SlimPHP-719E40?style=flat-square" />
+  <img title="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=flat-square" />
+  <img title="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square" />
+  <img title="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
+  <img title="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square" />
+  <img title="REST" src="https://img.shields.io/badge/REST-0B7285?style=flat-square" />
+  <img title="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square" />
+  <img title="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square" />
+</p>
+
+### Data
+<p>
+  <img title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square" />
+  <img title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
+  <img title="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square" />
+  <img title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square" />
+  <img title="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square" />
+  <img title="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square" />
+  <img title="Appwrite" src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square" />
+  <img title="PocketBase" src="https://img.shields.io/badge/PocketBase-B8C1FF?style=flat-square" />
+</p>
+
+### DevOps & Infrastructure
+<p>
+  <img title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
+  <img title="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square" />
+  <img title="Linux (Debian)" src="https://img.shields.io/badge/Linux%20Debian-A81D33?style=flat-square" />
+  <img title="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square" />
+  <img title="Windows Server" src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square" />
+  <img title="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square" />
+  <img title="Apache" src="https://img.shields.io/badge/Apache-D22128?style=flat-square" />
+  <img title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square" />
+  <img title="CI/CD" src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square" />
+  <img title="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square" />
+  <img title="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=flat-square" />
+  <img title="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square" />
+</p>
+
+### AI / ML
+<p>
+  <img title="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square" />
+  <img title="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" />
+  <img title="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=flat-square" />
+  <img title="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square" />
+  <img title="Anthropic" src="https://img.shields.io/badge/Anthropic-111827?style=flat-square" />
+  <img title="xAI" src="https://img.shields.io/badge/xAI-000000?style=flat-square" />
+  <img title="DeepSeek" src="https://img.shields.io/badge/DeepSeek-111827?style=flat-square" />
+  <img title="ROS 2" src="https://img.shields.io/badge/ROS2-22314E?style=flat-square" />
+</p>
+
+---
+
+## Services
+
+- Software Architecture & System Design
+- Web & Mobile Development (Android/iOS)
+- API Integration (REST/GraphQL) & Process Automation
+- DevOps / Cloud / Containers (Docker, Kubernetes)
+- Backend Maintenance & Accounting Automation
+- Infrastructure Operations (servers, networks, mail & web)
