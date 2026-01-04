@@ -82,6 +82,7 @@ I build robust, scalable systems—from architecture to delivery to reliable ope
 <p>
   <img title="SlimPHP" src="https://img.shields.io/badge/SlimPHP-719E40?style=flat-square" />
   <img title="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=flat-square" />
+  <img title="CI4" src="https://img.shields.io/badge/CI4-FF5D20?style=flat-square" />
   <img title="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square" />
   <img title="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
   <img title="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square" />
