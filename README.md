@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/devsolux"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-YOUR_GITHUB-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://github.com/devsolux"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-devsolux-181717?style=flat-square&logo=github&logoColor=white"></a>
   <a href="mailto:info@devsolux.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://devsolux.com"><img alt="Website" src="https://img.shields.io/badge/Website-DevSolux-111827?style=flat-square&logo=vercel&logoColor=white"></a>
 </p>
