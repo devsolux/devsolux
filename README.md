@@ -39,7 +39,7 @@ I build robust, scalable systems—from architecture to delivery to reliable ope
 
 ---
 
-## Tech Stack (Shields)
+## Tech Stack
 
 ### Languages
 <p>
