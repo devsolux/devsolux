@@ -127,6 +127,7 @@ I build robust, scalable systems—from architecture to delivery to reliable ope
   <img title="Anthropic" src="https://img.shields.io/badge/Anthropic-111827?style=flat-square" />
   <img title="xAI" src="https://img.shields.io/badge/xAI-000000?style=flat-square" />
   <img title="DeepSeek" src="https://img.shields.io/badge/DeepSeek-111827?style=flat-square" />
+  <img title="ROS 2" src="https://img.shields.io/badge/ROS-99999?style=flat-square" />
   <img title="ROS 2" src="https://img.shields.io/badge/ROS2-22314E?style=flat-square" />
 </p>
 
